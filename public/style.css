@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+.title {
+    border:rgb(240, 106, 88) solid 5px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+
+.form {
+    border:rgb(88, 210, 240) solid 5px;
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.example {
+    margin-top: 50px;
+}
+
+
+
